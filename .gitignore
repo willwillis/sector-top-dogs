@@ -109,3 +109,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 data/rawdata/pickles/all_prices_pd.pickle
+*.~lock*
