@@ -1,13 +1,3 @@
-iShares Russell 3000 ETF,,,,,,,,,,,
-Inception Date,22-May-00,,,,,,,,,,
-Fund Holdings as of,30-Dec-11,,,,,,,,,,
-Total Net Assets,"3,209,335,331.04",,,,,,,,,,
-Shares Outstanding,"43,250,000.00",,,,,,,,,,
-Stock,99.75,,,,,,,,,,
-Bond,0,,,,,,,,,,
-Cash,0.11,,,,,,,,,,
-Other,0.14,,,,,,,,,,
- ,,,,,,,,,,,
 Ticker,Name,Asset Class,Weight (%),Price,Shares,Market Value,Notional Value,Sector,SEDOL,ISIN,Exchange
 JCG,J CREW GROUP INC (ESCROW),Equity,0,0,"12,115.00",1.21,-,Consumer Discretionary,-,-,New York Stock Exchange Inc.
 OSHWQ,ORCHARD SUPPLY HARDWARE STORES COR,Equity,0,3.76,394.69,"1,484.02",-,Consumer Discretionary,B7FNL98,US6856914048,Non-Nms Quotation Service (Nnqs)
@@ -1790,7 +1780,7 @@ TMO,THERMO FISHER SCIENTIFIC INC,Equity,0.12,44.97,"87,584.00","3,938,652.48",-,
 ISRG,INTUITIVE SURGICAL INC,Equity,0.13,463.01,"8,975.00","4,155,514.75",-,Health Care,2871301,US46120E6023,NASDAQ
 MCK,MCKESSON CORP,Equity,0.14,77.91,"57,621.00","4,489,252.11",-,Health Care,2378534,US58155Q1031,New York Stock Exchange Inc.
 ESRX,EXPRESS SCRIPTS INC.,Equity,0.16,44.69,"111,567.00","4,985,929.23",-,Health Care,2326469,US3021821000,NASDAQ
-6COP,COVIDIEN,Equity,0.16,45.01,"113,288.00","5,099,092.88",-,Health Care,B4MSG67,IE00B68SQD29,Boerse Berlin
+COP6,COVIDIEN,Equity,0.16,45.01,"113,288.00","5,099,092.88",-,Health Care,B4MSG67,IE00B68SQD29,Boerse Berlin
 MHS,MEDCO HEALTH SOLUTIONS INC,Equity,0.16,55.9,"91,368.00","5,107,471.20",-,Health Care,2954019,US58405U1025,New York Stock Exchange Inc.
 ANTM,WELLPOINT INC,Equity,0.16,66.25,"79,496.00","5,266,610.00",-,Health Care,2794743,US94973V1070,New York Stock Exchange Inc.
 BIIB,BIOGEN INC INC,Equity,0.19,110.05,"55,220.00","6,076,961.00",-,Health Care,2455965,US09062X1037,NASDAQ
@@ -2962,4 +2952,4 @@ D,DOMINION ENERGY INC,Equity,0.22,53.08,"131,580.00","6,984,266.40",-,Utilities,
 SO,SOUTHERN,Equity,0.28,46.29,"194,035.00","8,981,880.15",-,Utilities,2829601,US8425871071,New York Stock Exchange Inc.
 VZ,VERIZON COMMUNICATIONS INC,Equity,0.81,40.12,"646,465.00","25,936,175.80",-,Utilities,2090571,US92343V1044,New York Stock Exchange Inc.
 T,AT&T INC,Equity,1.28,30.24,"1,353,216.00","40,921,251.84",-,Utilities,2831811,US00206R1023,New York Stock Exchange Inc.
- ,,,,,,,,,,,
+Â ,,,,,,,,,,,

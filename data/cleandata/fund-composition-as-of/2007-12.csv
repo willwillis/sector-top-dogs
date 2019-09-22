@@ -1,13 +1,3 @@
-iShares Russell 3000 ETF,,,,,,,,,,,
-Inception Date,22-May-00,,,,,,,,,,
-Fund Holdings as of,31-Dec-07,,,,,,,,,,
-Total Net Assets,"2,946,213,506.27",,,,,,,,,,
-Shares Outstanding,"34,800,000.00",,,,,,,,,,
-Stock,99.77,,,,,,,,,,
-Bond,0,,,,,,,,,,
-Cash,0.53,,,,,,,,,,
-Other,-0.3,,,,,,,,,,
- ,,,,,,,,,,,
 Ticker,Name,Asset Class,Weight (%),Price,Shares,Market Value,Notional Value,Sector,SEDOL,ISIN,Exchange
 PATR,PATRIOT TRANSPORTATION HOLDING INC,Equity,0,92.23,305,"28,130.15",-,Industrials,2343479,US70337B1026,NASDAQ
 TBSI,TBS INTERNATIONAL PLC (CL A),Equity,0,33.06,883,"29,191.98",-,Industrials,B0BV2Z0,BMG869751518,NASDAQ
@@ -2942,4 +2932,13 @@ S,SPRINT NEXTEL CORP,Equity,0.23,13.13,"516,021.00","6,775,355.72",-,Utilities,2
 VZ,VERIZON COMMUNICATIONS INC,Equity,0.79,43.69,"532,630.00","23,270,604.70",-,Utilities,2090571,US92343V1044,New York Stock Exchange Inc.
 CMCSA,COMCAST A CORP,Equity,0.34,18.26,"541,826.00","9,893,742.76",-,Utilities,2044545,US20030N1019,NASDAQ
 T,AT&T INC,Equity,1.6,41.56,"1,130,769.00","46,994,759.66",-,Utilities,2831811,US00206R1023,New York Stock Exchange Inc.
- ,,,,,,,,,,,
+iShares Russell 3000 ETF,,,,,,,,,,,
+Inception Date,22-May-00,,,,,,,,,,
+Fund Holdings as of,31-Dec-07,,,,,,,,,,
+Total Net Assets,"2,946,213,506.27",,,,,,,,,,
+Shares Outstanding,"34,800,000.00",,,,,,,,,,
+Stock,99.77,,,,,,,,,,
+Bond,0,,,,,,,,,,
+Cash,0.53,,,,,,,,,,
+Other,-0.3,,,,,,,,,,
+Â ,,,,,,,,,,,

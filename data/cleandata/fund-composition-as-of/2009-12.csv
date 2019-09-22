@@ -1,13 +1,3 @@
-iShares Russell 3000 ETF,,,,,,,,,,,
-Inception Date,22-May-00,,,,,,,,,,
-Fund Holdings as of,31-Dec-09,,,,,,,,,,
-Total Net Assets,"2,925,623,400.34",,,,,,,,,,
-Shares Outstanding,"44,800,000.00",,,,,,,,,,
-Stock,99.8,,,,,,,,,,
-Bond,0,,,,,,,,,,
-Cash,0.08,,,,,,,,,,
-Other,0.12,,,,,,,,,,
- ,,,,,,,,,,,
 Ticker,Name,Asset Class,Weight (%),Price,Shares,Market Value,Notional Value,Sector,SEDOL,ISIN,Exchange
 VTGDF,VANTAGE DRILLING,Equity,0,1.61,"19,728.00","31,762.08",-,-,B39YS98,KYG932051132,Non-Nms Quotation Service (Nnqs)
 CPA,COPA HOLDINGS A SA,Equity,0.01,54.47,"7,155.00","389,732.85",-,Industrials,B0TNJH9,PAP310761054,New York Stock Exchange Inc.
@@ -2988,4 +2978,4 @@ ARTNA,ARTESIAN RESOURCES CORP CLASS A,Equity,0,18.31,"1,339.00","24,517.09",-,Ut
 SAAS,INCONTACT INC.,Equity,0,2.93,"8,061.00","23,618.73",-,Utilities,2822042,US45336E1091,NASDAQ
 PNNW,PENNICHUCK CORP.,Equity,0,21.13,"1,084.00","22,904.92",-,Utilities,2287083,US7082542066,NASDAQ
 CLWRR,CLEARWIRE CORP,Equity,0,0.4,"16,053.00","6,421.20",-,Utilities,B5864H9,US18538Q1397,NASDAQ
- ,,,,,,,,,,,
+Â ,,,,,,,,,,,

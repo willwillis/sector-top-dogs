@@ -1,16 +1,6 @@
-iShares Russell 3000 ETF,,,,,,,,,,,
-Inception Date,22-May-00,,,,,,,,,,
-Fund Holdings as of,31-Dec-14,,,,,,,,,,
-Total Net Assets,"6,328,468,027.10",,,,,,,,,,
-Shares Outstanding,"51,750,000.00",,,,,,,,,,
-Stock,-,,,,,,,,,,
-Bond,-,,,,,,,,,,
-Cash,-,,,,,,,,,,
-Other,-,,,,,,,,,,
- ,,,,,,,,,,,
 Ticker,Name,Asset Class,Weight (%),Price,Shares,Market Value,Notional Value,Sector,SEDOL,ISIN,Exchange
 -,FURIEX PHARMACEUTICALS INC CVR,Equity,0,10,"1,940.00","19,400.00","19,400.00",Health Care,99B56Q6,-,NASDAQ
- ,,,,,,,,,,,
+Â ,,,,,,,,,,,
 A,AGILENT TECHNOLOGIES INC,Equity,0.06,40.94,"91,386.00","3,741,342.84","3,741,342.84",Health Care,2520153,US00846U1016,New York Stock Exchange Inc.
 AA,ALCOA INC,Equity,0.08,15.79,"322,392.00","5,090,569.68","5,090,569.68",Materials,2021805,US0138171014,New York Stock Exchange Inc.
 AAC,AAC HLDG INC,Equity,0,30.92,"1,565.00","48,389.80","48,389.80",Health Care,BQZJBY4,US0003071083,New York Stock Exchange Inc.
@@ -900,7 +890,7 @@ EIX,EDISON INTERNATIONAL,Equity,0.09,65.48,"88,990.00","5,827,065.20","5,827,065
 EL,ESTEE LAUDER INC CLASS A,Equity,0.08,76.2,"62,887.00","4,791,989.40","4,791,989.40",Consumer Staples,2320524,US5184391044,New York Stock Exchange Inc.
 ELGX,ENDOLOGIX INC.,Equity,0,15.29,"17,483.00","267,315.07","267,315.07",Health Care,2177753,US29266S1069,NASDAQ
 ELLI,ELLIE MAE INC,Equity,0.01,40.32,"8,620.00","347,558.40","347,558.40",Information Technology,B532X75,US28849P1003,New York Stock Exchange Inc.
-ELNK,EARTHLINK HOLDINGS CORP,Equity,0,4.39,"28,961.00","127,138.79","127,138.79",Information Technology,BHD6672,US27033X1019,NASDAQ
+ELNK,EARTHLINK HOLDINGS CORP,Equity,0,4.39,"28,961.00","127,138.79","127,138.79",Information Technology,BHD6672.000,US27033X1019,NASDAQ
 ELRC,ELECTRO RENT CORP.,Equity,0,14.04,"5,238.00","73,541.52","73,541.52",Information Technology,2310387,US2852181039,NASDAQ
 ELS,EQUITY LIFESTYLE PROPERTIES INC.,Equity,0.02,51.55,"22,658.00","1,168,019.90","1,168,019.90",Financials,2563125,US29472R1086,New York Stock Exchange Inc.
 ELX,EMULEX CORP,Equity,0,5.67,"23,898.00","135,501.66","135,501.66",Information Technology,2314420,US2924752098,New York Stock Exchange Inc.
